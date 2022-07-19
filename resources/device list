@@ -1,0 +1,10 @@
+//Android list
+0a5be96d	:	6.0.1
+emulator(Nexus 5)	:	5.1
+emulator(Nexus 6)	:	6.0
+emulator(Pixel XL )	:	7.1.1
+emulator(Nexus 5x)	:	8.1
+emulator(Pixel 2 XL )	:	8.1
+
+//Simulator
+iPhone 7	:	12.0

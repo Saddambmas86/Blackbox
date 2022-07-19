@@ -1,0 +1,10 @@
+Default:
+    ippUsername: Produser3
+    ippPassword: Monday123
+    ippSchemeName: FMC Technologies Inc Intl Savings Plan
+    ippMemberCode: G0001BD
+    nonIppUsername: 5258209     
+    nonIppPassword: 1234
+    nonIppSchemeName: A.T. Kearney Ltd Pension & LA Scheme
+    nonIppMemberCode: 5258209  
+    deviceName: MI
